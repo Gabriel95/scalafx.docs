@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Vendor: org.scalafx
+Implementation-Title: scalafx
+Implementation-Version: 8.0.0-M1
+Implementation-Vendor-Id: org.scalafx
+Specification-Vendor: org.scalafx
+Build-Jdk: 1.8.0-ea
+Built-By: Jarek Sacha
+Specification-Title: scalafx
+Created-By: Simple Build Tool
+Specification-Version: 8.0.0-M1
+
